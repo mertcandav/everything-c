@@ -3,6 +3,7 @@ Everything about the C programming language. Sample programs, algorithms, librar
 
 ## Example Programgs
 + [Hello World](https://github.com/mertcandav/everything-c/tree/main/examples/hello-world)
++ [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square)
 
 ## Contributing
 Please read this: [CONTRIBUTING](https://github.com/mertcandav/everything-c/blob/main/CONTRIBUTING.md)
