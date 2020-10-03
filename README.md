@@ -3,7 +3,9 @@ Everything about the C programming language. Sample programs, algorithms, librar
 
 ## Example Programgs
 + [Hello World](https://github.com/mertcandav/everything-c/tree/main/examples/hello-world)
++ [Quadrangle](https://github.com/mertcandav/everything-c/tree/main/examples/quadrangle)
 + [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square)
++ [Triangle](https://github.com/mertcandav/everything-c/tree/main/examples/triangle)
 
 ## Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
