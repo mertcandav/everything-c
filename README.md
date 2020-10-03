@@ -28,6 +28,16 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
 + [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
 
+## Editors
++ [Anjuta DevStudio](http://anjuta.org/)
++ [Code::Blocks](http://www.codeblocks.org/)
++ [CodeLite](https://codelite.org/)
++ [Dev-C++](https://www.bloodshed.net/devcpp.html)
++ [Geany](https://www.geany.org/)
++ [KDevelop](https://www.kdevelop.org/)
++ [Notepad++](https://notepad-plus-plus.org/)
++ [Visual Studio Code](https://code.visualstudio.com/)
+
 ## Contributing
 Please read this: [CONTRIBUTING](https://github.com/mertcandav/everything-c/blob/main/CONTRIBUTING.md)
 
