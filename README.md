@@ -145,6 +145,14 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [SLRE](https://github.com/cesanta/slre)
 + [TRE](https://github.com/laurikari/tre/)
 
+## Standard Libraries
++ [Bionic](https://android.googlesource.com/platform/bionic.git)
++ [dietlibc](https://www.fefe.de/dietlibc/)
++ [GNU libc](https://www.gnu.org/software/libc/)
++ [musl libc](https://musl.libc.org/)
++ [PDCLib](https://rootdirectory.ddns.net/dokuwiki/doku.php?id=pdclib:start)
++ [uclibc-ng](https://uclibc-ng.org/)
+
 ## Structured File Processing
 ### JSON
 + [Jansson](https://digip.org/jansson/)
