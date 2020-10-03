@@ -1,18 +1,19 @@
 # everything-c
 Everything about the C programming language. Sample programs, algorithms, libraries...
 
-## Example Programgs
+## Repostory Content
+### Example Programgs
 + [Hello World](https://github.com/mertcandav/everything-c/tree/main/examples/hello-world)
 + [Quadrangle](https://github.com/mertcandav/everything-c/tree/main/examples/quadrangle)
 + [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square)
 + [Triangle](https://github.com/mertcandav/everything-c/tree/main/examples/triangle)
 
-## Structures
+### Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
 + [List](https://github.com/mertcandav/everything-c/tree/main/structures/list)
 + [String](https://github.com/mertcandav/everything-c/tree/main/structures/string)
 
-## Tutorials
+### Tutorials
 + [Compile Program With Makefile(GCC)](https://github.com/mertcandav/everything-c/tree/main/tutorials/compile_program_with_makefile)
 + [Makefile](https://github.com/mertcandav/everything-c/tree/main/tutorials/makefile)
 
