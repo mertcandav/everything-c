@@ -92,6 +92,9 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Notepad++](https://notepad-plus-plus.org/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
+## Misc
++ [Cello](https://github.com/orangeduck/Cello)
+
 ## Contributing
 Please read this: [CONTRIBUTING](https://github.com/mertcandav/everything-c/blob/main/CONTRIBUTING.md)
 
