@@ -133,7 +133,7 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Notepad++](https://notepad-plus-plus.org/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
-## Misc
+## Utilities
 + [Cello](https://github.com/orangeduck/Cello)
 
 ## Web Frameworks
