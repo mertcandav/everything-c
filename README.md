@@ -7,6 +7,7 @@ Everything about the C programming language. Sample programs, algorithms, librar
 
 ## Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
++ [List](https://github.com/mertcandav/everything-c/tree/main/structures/list)
 
 ## Contributing
 Please read this: [CONTRIBUTING](https://github.com/mertcandav/everything-c/blob/main/CONTRIBUTING.md)
