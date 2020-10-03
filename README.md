@@ -72,6 +72,17 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [OpenMP](https://www.openmp.org/)
 + [openMPI](https://github.com/open-mpi/ompi)
 
+## Cryptography
++ [GNU SASL](https://www.gnu.org/software/gsasl/)
++ [GnuTLS](https://www.gnutls.org/)
++ [libgcrypt](https://gnupg.org/related_software/libgcrypt/)
++ [libsodium](https://doc.libsodium.org/)
++ [libtom](https://www.libtom.net/)
++ [mbed TLS](https://tls.mbed.org/)
++ [OpenSSL](https://www.openssl.org/)
++ [OpenQuantumSafe](https://openquantumsafe.org/)
++ [s2n](https://github.com/awslabs/s2n)
+
 ## Documentation Guides
 + [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
 + [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
