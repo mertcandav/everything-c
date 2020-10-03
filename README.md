@@ -133,6 +133,11 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Notepad++](https://notepad-plus-plus.org/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
+## Profiling
++ [gperftools](https://github.com/gperftools/gperftools)
++ [GNU binutils](https://www.gnu.org/software/binutils/)
++ [OProfile](https://oprofile.sourceforge.io/news/)
+
 ## Structured File Processing
 ### JSON
 + [Jansson](https://digip.org/jansson/)
