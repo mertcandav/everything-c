@@ -61,6 +61,17 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [ZLib-ng](https://github.com/zlib-ng/zlib-ng)
 + [Zstandard](http://facebook.github.io/zstd/)
 
+## Concurrency and Parallelism
++ [ConcurrencyKit](http://concurrencykit.org/)
++ [FCFS RWLock](https://www.shlomifish.org/rwlock/)
++ [GNU PTH](https://www.gnu.org/software/pth/)
++ [libdill](http://libdill.org/)
++ [liburcu](http://liburcu.org/)
++ [libmill](http://libmill.org/)
++ [OCL_MLA](http://tuxfan.github.io/ocl-mla/)
++ [OpenMP](https://www.openmp.org/)
++ [openMPI](https://github.com/open-mpi/ompi)
+
 ## Documentation Guides
 + [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
 + [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
