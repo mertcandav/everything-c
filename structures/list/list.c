@@ -73,9 +73,9 @@ void clear(LIST* list) {
 }
 
 LIST copy(LIST* list) {
-  LIST lst = newList();
-  merge(&lst, list);
-  return lst;
+  LIST lst = newList();  // Create new list
+  merge(&lst, list);     // Copy items from source
+  return lst;            // Return copy
 }
 
 void removeAt(LIST* list, int index) { list->items[index] = NULL; }
