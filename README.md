@@ -138,6 +138,13 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [GNU binutils](https://www.gnu.org/software/binutils/)
 + [OProfile](https://oprofile.sourceforge.io/news/)
 
+## Regex
++ [Onigmo](https://github.com/k-takata/Onigmo)
++ [Oniguruma](https://github.com/kkos/oniguruma)
++ [PCRE](http://www.pcre.org/)
++ [SLRE](https://github.com/cesanta/slre)
++ [TRE](https://github.com/laurikari/tre/)
+
 ## Structured File Processing
 ### JSON
 + [Jansson](https://digip.org/jansson/)
