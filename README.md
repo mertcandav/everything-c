@@ -24,9 +24,15 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [GNU-GCC](https://gcc.gnu.org/)
 + [PCC](http://pcc.ludd.ltu.se/)
 
-## Documentation Tutorials
+## Documentation Guides
 + [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
 + [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
+
+## Documentation Generation
++ [cxref](http://www.gedanken.org.uk/software/cxref/)
++ [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html)
++ [Doxygen](https://www.doxygen.nl/index.html)
++ [GtkDoc](https://wiki.gnome.org/DocumentationProject/GtkDoc)
 
 ## Editors
 + [Anjuta DevStudio](http://anjuta.org/)
