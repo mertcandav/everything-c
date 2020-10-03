@@ -17,6 +17,15 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Compile Program With Makefile(GCC)](https://github.com/mertcandav/everything-c/tree/main/tutorials/compile_program_with_makefile)
 + [Makefile](https://github.com/mertcandav/everything-c/tree/main/tutorials/makefile)
 
+## Artificial Intelligence
++ [csv](https://libccv.org/)
++ [Cranium](https://100.github.io/Cranium/)
++ [FANN](http://leenissen.dk/fann/wp/)
++ [Genan](https://codeplea.com/genann)
++ [KANN](https://github.com/attractivechaos/kann)
++ [LibDEEP](https://github.com/jppbsi/LibDEEP)
++ [Torch](http://torch.ch/)
+
 ## Compilers
 + [ccache](https://ccache.dev/)
 + [CLang](https://clang.llvm.org/)
