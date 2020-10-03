@@ -133,6 +133,23 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Notepad++](https://notepad-plus-plus.org/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
+## Structured File Processing
+### JSON
++ [Jansson](https://digip.org/jansson/)
++ [JSMN](https://zserge.com/jsmn/)
++ [JSON.c](https://github.com/json-c/json-c)
++ [Parson](https://github.com/kgabis/parson)
++ [YAJL](https://lloyd.github.io/yajl/)
+### INI
++ [inih](https://github.com/benhoyt/inih)
++ [iniparser](https://github.com/ndevilla/iniparser)
++ [libconfini](https://madmurphy.github.io/libconfini/html/index.html)
+### XML
++ [libexpat](https://libexpat.github.io/)
++ [libxml2](http://xmlsoft.org/)
+### YAML
++ [libYAML](https://pyyaml.org/wiki/LibYAML)
+
 ## Utilities
 + [Cello](https://github.com/orangeduck/Cello)
 
