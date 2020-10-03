@@ -42,6 +42,25 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [GNU GCC](https://gcc.gnu.org/)
 + [PCC](http://pcc.ludd.ltu.se/)
 
+## Compression
++ [blosc](https://blosc.org/pages/blosc-in-depth/)
++ [Brotli](https://github.com/google/brotli)
++ [bzip2](http://www.bzip.org/)
++ [Clzip](http://lzip.nongnu.org/clzip.html)
++ [CRoaring](https://github.com/RoaringBitmap/CRoaring)
++ [Density](https://github.com/centaurean/density)
++ [FastZlib](https://github.com/gildor2/fast_zlib)
++ [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy)
++ [HeatShrink](https://github.com/atomicobject/heatshrink)
++ [Libarchive](https://github.com/libarchive/libarchive)
++ [lz4](http://lz4.github.io/lz4/)
++ [lzo](http://www.oberhumer.com/opensource/lzo/)
++ [smaz](https://github.com/antirez/smaz)
++ [zip](https://github.com/kuba--/zip)
++ [ZLib](http://zlib.net/)
++ [ZLib-ng](https://github.com/zlib-ng/zlib-ng)
++ [Zstandard](http://facebook.github.io/zstd/)
+
 ## Documentation Guides
 + [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
 + [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
