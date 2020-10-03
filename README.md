@@ -136,6 +136,12 @@ Everything about the C programming language. Sample programs, algorithms, librar
 ## Misc
 + [Cello](https://github.com/orangeduck/Cello)
 
+## Web Frameworks
++ [facil.io](http://facil.io/)
++ [kcgi](https://kristaps.bsd.lv/kcgi/)
++ [KLone](http://www.koanlogic.com/klone/)
++ [Kore](https://kore.io/)
+
 ## Contributing
 Please read this: [CONTRIBUTING](https://github.com/mertcandav/everything-c/blob/main/CONTRIBUTING.md)
 
