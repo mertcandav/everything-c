@@ -93,6 +93,23 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [Doxygen](https://www.doxygen.nl/index.html)
 + [GtkDoc](https://wiki.gnome.org/DocumentationProject/GtkDoc)
 
+## Database and Data Stores
++ [BerkeleyDB](https://www.oracle.com/database/berkeley-db/db.html)
++ [EJDB](https://ejdb.org/)
++ [hiredis](https://github.com/redis/hiredis)
++ [IBM DB2](https://www.ibm.com/analytics/db2)
++ [Interbse](https://www.embarcadero.com/products/interbase)
++ [MongoDB](https://www.mongodb.com/)
++ [MySQL](https://www.mysql.com/)
++ [Oracle](https://www.oracle.com/database/)
++ [PostgreSQL](https://www.postgresql.org/)
++ [Redis](https://redis.io/)
++ [Sophia](http://sophia.systems/)
++ [Sparkey](https://github.com/spotify/sparkey)
++ [SQLite](https://www.sqlite.org/index.html)
++ [UnQLite](https://unqlite.org/)
++ [WhiteDB](http://whitedb.org/)
+
 ## Editors
 + [Anjuta DevStudio](http://anjuta.org/)
 + [Code::Blocks](http://www.codeblocks.org/)
