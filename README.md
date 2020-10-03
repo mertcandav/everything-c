@@ -10,6 +10,7 @@ Everything about the C programming language. Sample programs, algorithms, librar
 ## Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
 + [List](https://github.com/mertcandav/everything-c/tree/main/structures/list)
++ [String](https://github.com/mertcandav/everything-c/tree/main/structures/string)
 
 ## Tutorials
 + [Compile Program With Makefile(GCC)](https://github.com/mertcandav/everything-c/tree/main/tutorials/compile_program_with_makefile)
