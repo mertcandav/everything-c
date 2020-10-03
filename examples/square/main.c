@@ -10,9 +10,9 @@ int main() {
   char mark = '*';  // Square draw mark
   for (int height = 0; height < size; height++) {
     for (int width = 0; width < size; width++) {
-      printf("%c", mark);
+      printf("%c", mark);  // Print draw mark
     }
-    printf("%s", "\n");
+    printf("%s", "\n");  // Print new line
   }
   return 0;  // Exit with 0
 }
