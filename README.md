@@ -11,6 +11,9 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 + [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square)
 + [Triangle](https://github.com/mertcandav/everything-c/tree/main/examples/triangle)
 
+### Sorters
++ [Bubble Sort](https://github.com/mertcandav/everything-c/tree/main/sorters/bubble_sort.c)
+
 ### Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
 + [List](https://github.com/mertcandav/everything-c/tree/main/structures/list)
