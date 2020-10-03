@@ -83,16 +83,6 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [OpenQuantumSafe](https://openquantumsafe.org/)
 + [s2n](https://github.com/awslabs/s2n)
 
-## Documentation Guides
-+ [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
-+ [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
-
-## Documentation Generation
-+ [cxref](http://www.gedanken.org.uk/software/cxref/)
-+ [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html)
-+ [Doxygen](https://www.doxygen.nl/index.html)
-+ [GtkDoc](https://wiki.gnome.org/DocumentationProject/GtkDoc)
-
 ## Database and Data Stores
 + [BerkeleyDB](https://www.oracle.com/database/berkeley-db/db.html)
 + [EJDB](https://ejdb.org/)
@@ -109,6 +99,29 @@ Everything about the C programming language. Sample programs, algorithms, librar
 + [SQLite](https://www.sqlite.org/index.html)
 + [UnQLite](https://unqlite.org/)
 + [WhiteDB](http://whitedb.org/)
+
+## Debugging
++ [CBMC](https://www.cprover.org/cbmc/)
++ [C-Reduce](https://embed.cs.utah.edu/creduce/)
++ [CScout](https://www.spinellis.gr/cscout/)
++ [ESBMC](http://esbmc.org/)
++ [GNU cflow](https://www.gnu.org/software/cflow/)
++ [GNU complexity](https://www.gnu.org/software/complexity/)
++ [GNU DDD](https://www.gnu.org/software/ddd/ddd.html)
++ [GNU GDB](https://www.gnu.org/software/gdb/)
++ [LLVM lldb](https://lldb.llvm.org/)
++ [rr](https://rr-project.org/)
++ [Valgrind](https://www.valgrind.org/)
+
+## Documentation Guides
++ [Doxygen](https://www.doxygen.nl/manual/docblocks.html)
++ [HeaderBrowser](https://www.headerbrowser.org/doc/c_tags.html)
+
+## Documentation Generation
++ [cxref](http://www.gedanken.org.uk/software/cxref/)
++ [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html)
++ [Doxygen](https://www.doxygen.nl/index.html)
++ [GtkDoc](https://wiki.gnome.org/DocumentationProject/GtkDoc)
 
 ## Editors
 + [Anjuta DevStudio](http://anjuta.org/)
