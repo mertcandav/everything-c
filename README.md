@@ -16,6 +16,7 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 
 ### Structures
 + [Boolean](https://github.com/mertcandav/everything-c/tree/main/structures/boolean)
++ [Color](https://github.com/mertcandav/everything-c/tree/main/structures/color)
 + [List](https://github.com/mertcandav/everything-c/tree/main/structures/list)
 + [String](https://github.com/mertcandav/everything-c/tree/main/structures/string)
 
