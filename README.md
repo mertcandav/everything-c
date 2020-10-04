@@ -21,6 +21,7 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 + [String](https://github.com/mertcandav/everything-c/tree/main/structures/string)
 
 ### Tutorials
++ [Add functions to struct](https://github.com/mertcandav/everything-c/tree/main/tutorials/add_functions_to_struct)
 + [Compile Program With Makefile(GCC)](https://github.com/mertcandav/everything-c/tree/main/tutorials/compile_program_with_makefile)
 + [Makefile](https://github.com/mertcandav/everything-c/tree/main/tutorials/makefile)
 
