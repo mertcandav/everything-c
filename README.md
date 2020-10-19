@@ -6,6 +6,7 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 
 ## Repostory Content
 ### Example Programgs
++ [Calculator](https://github.com/mertcandav/everything-c/tree/main/examples/calculator) - Calculator
 + [Hello World](https://github.com/mertcandav/everything-c/tree/main/examples/hello-world) - Hello World
 + [Quadrangle](https://github.com/mertcandav/everything-c/tree/main/examples/quadrangle) - Draw Quadrangle
 + [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square) - Draw square
