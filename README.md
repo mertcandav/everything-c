@@ -9,6 +9,7 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 + [Calculator](https://github.com/mertcandav/everything-c/tree/main/examples/calculator) - Calculator
 + [Fibonacci](https://github.com/mertcandav/everything-c/tree/main/examples/fibonacci) - Fibonacci
 + [Hello World](https://github.com/mertcandav/everything-c/tree/main/examples/hello-world) - Hello World
++ [Perfect Numbers](https://github.com/mertcandav/everything-c/tree/main/examples/perfect-numbers) - Perfect Numbers
 + [Quadrangle](https://github.com/mertcandav/everything-c/tree/main/examples/quadrangle) - Draw Quadrangle
 + [Square](https://github.com/mertcandav/everything-c/tree/main/examples/square) - Draw square
 + [Triangle](https://github.com/mertcandav/everything-c/tree/main/examples/triangle) - Draw triangle
