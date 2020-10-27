@@ -14,7 +14,7 @@ int main() {
                                      : 0;  // Sum with bnumber if mod of number
                                            // and bnumber equals to zero
     if (total == number)                   // If total is equals to number
-      printf("%d\n", number);              // Print perferc number
+      printf("%d\n", number);              // Print perfect number
   }
   return 0;  // Exit with 0
 }
