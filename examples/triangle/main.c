@@ -7,7 +7,7 @@
  */
 int main() {
   int size = 11;    // Widh and height of triange
-  char mark = '*';  // Square draw mark
+  char mark = '*';  // Triangle draw mark
   for (int height = 1; height <= size; height++) {
     for (int width = 0; width < size - height; width++) {
       printf("%c", ' ');  // Print whitespace
