@@ -43,6 +43,7 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 + [Meson](https://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja.
 + [Premake](https://github.com/premake/premake-core) - Command-line utility which reads a scripted definition of a software project and uses it to generate project files for Visual Studio and GNU Make. Other targets are also being worked on. BSD-3-Clause
 SCons - Software construction tool using Python.
++ [Relifile](https://github.com/mertcandav/relifile) - Cross-platform build utility.
 + [SCons](https://www.scons.org/) - Software construction tool using Python.
 + [XMAKE](https://xmake.io/#/) - Cross-platform build utility.
 
